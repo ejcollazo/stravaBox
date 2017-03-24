@@ -1,5 +1,5 @@
 # stravaBox
-![Image of Box](https://github.com/ejcollazo/stravaBox/blob/master/imageOne.JPG)
+![Image of Box](https://github.com/ejcollazo/stravaBox/blob/master/imageOne.jpg)
   
 # Intro
 
