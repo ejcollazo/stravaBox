@@ -1,5 +1,5 @@
-# mobileBots
-![Image of Bot](https://github.com/ejcollazo/stravaBox/blob/master/imageOne.JPG)
+# stravaBox
+![Image of Box](https://github.com/ejcollazo/stravaBox/blob/master/imageOne.JPG)
   
 # Intro
 
